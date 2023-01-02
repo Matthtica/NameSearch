@@ -1,6 +1,8 @@
 # name_search
 
-A new Flutter project.
+An app that takes excel sheet xlsx as a file and can do these operation on it.
+- Sort any column by its value.
+- Filter search on each column to find there relative on other column.
 
 ## Getting Started
 
